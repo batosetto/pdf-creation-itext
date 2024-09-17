@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe3c45d-2fae-4d6d-a045-e4b27fd861d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/results/chapter01/database.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/chapter01/images.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/results/chapter01/lists.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itextpdf/jumpstart/DatabaseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itextpdf/jumpstart/Images.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itextpdf/jumpstart/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data/united_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/joca.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/zeca.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
