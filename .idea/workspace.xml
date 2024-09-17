@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fe3c45d-2fae-4d6d-a045-e4b27fd861d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itextpdf/jumpstart/EditPdf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itextpdf/jumpstart/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/chapter01/database.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/chapter01/images.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/results/chapter01/lists.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itextpdf/jumpstart/DatabaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itextpdf/jumpstart/Images.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itextpdf/jumpstart/Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data/united_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/joca.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/zeca.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -49,12 +52,36 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/barbaratosetto/Documents/Learnings/iText/iText7/iTextFirstProject/src/main/resources/img",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EditPdf">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/img" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/data" />
+      <recent name="$PROJECT_DIR$/src/main/resources/img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DatabaseExample">
+    <configuration name="DatabaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itextpdf.jumpstart.DatabaseExample" />
+      <module name="iTextFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itextpdf.jumpstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EditPdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.itextpdf.jumpstart.EditPdf" />
       <module name="iTextFirstProject" />
@@ -81,8 +108,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Images" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itextpdf.jumpstart.Images" />
+      <module name="iTextFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itextpdf.jumpstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itextpdf.jumpstart.Lists" />
+      <module name="iTextFirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itextpdf.jumpstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DatabaseExample" />
+        <item itemvalue="Application.Images" />
+        <item itemvalue="Application.Lists" />
         <item itemvalue="Application.EditPdf" />
         <item itemvalue="Application.HelloWorld" />
       </list>
